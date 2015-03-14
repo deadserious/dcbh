@@ -1,0 +1,1 @@
+Useful Class Helpers for Embarcadero's Delphi
